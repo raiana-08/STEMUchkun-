@@ -1,7 +1,7 @@
-T# STEMUchkun-
+STEMUchkun 
 Free STEM Education Resources | Kyrgyzstan
 
-STEM Uchkun is a student-led initiative dedicated to making STEM education more accessible, particularly for girls in remote regions of Kyrgyzstan.
+STEMUchkun is a student-led initiative dedicated to making STEM education more accessible, particularly for girls in remote regions of Kyrgyzstan.
 
 Our Mission
 
